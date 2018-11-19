@@ -5,4 +5,5 @@ public class Git {
     private String username;
     private int age ;
     private String address;
+    private Data birthday;
 }
